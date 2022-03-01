@@ -1,7 +1,7 @@
 # Datasets
 
 ## Mouse signature genes
-Mouse signature genes are obtained from [Pal et al. 2021 mouse paper](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-021-01445-4) containing **1464 Basal** genes, **428 LP** genes and **528 ML** gene. <br />
+Mouse signature genes are obtained from [Pal et al. 2021 mouse paper](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-021-01445-4) containing **1464 Basal** genes, **428 LP** genes and **528 ML** genes. <br />
 
 The **raw basal** gene number in the mouse paper is **1467**, while two of them have ```NA``` GeneIDs and one of them has the same GeneID with another gene, hence, these three genes are removed. <br />
        
